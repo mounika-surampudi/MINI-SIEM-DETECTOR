@@ -1,0 +1,4 @@
+2026-09-26 18:51:07.455897 - BLOCKED 192.168.1.10 - 25 fails - User:admin
+2026-09-26 18:51:07.457045 - BLOCKED 10.0.0.5 - 7 fails - User:test
+2026-09-26 18:51:07.457909 - BLOCKED 192.168.1.10 - 30 fails - User:root
+2026-09-26 18:51:07.458980 - BLOCKED 172.16.0.12 - 12 fails - User:admin
